@@ -15,7 +15,7 @@ after_script:
   - git config user.email "${USER_EMAIL}"
   - git add .
   - git commit -m "publish gitbook"
-  - git push --force --quiet "https://${test_token}@github.com/windmissing/${GH_REF}" master:${gh-pages}
+  - git push --force --quiet "https://${test_token}@github.com/windmissing/${GH_REF}" master:gh-pages
 
 branchs:
   only:
