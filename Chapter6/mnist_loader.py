@@ -35,6 +35,6 @@ def load_data_shared(filename, seed, train_size, vali_size, test_size):
     f = gzip.open(filename, 'rb')
     training_data, validation_data, test_data = pickle.load(f,encoding='bytes')
     
-    return vectorize(get_part(training_data, seed, train_size)),\
+    return get_part(training_data, seed, train_size),\
            get_part(validation_data, seed, vali_size),\
            get_part(test_data, seed, test_size)
