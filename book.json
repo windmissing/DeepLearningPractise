@@ -19,16 +19,16 @@
         "mygitalk": {
             "clientID": "43dbd838dc1b0ba757f1",
             "clientSecret": "7029e5dabc2cb6bf3d538efcc461c6219239cecc",
-            "repo": "play-with-handwritten-digits",
+            "repo": "DeepLearningPractise",
             "owner": "windmissing",
             "admin": ["windmissing"],
             "distractionFreeMode": false
         },
         "github": {
-            "url": "https://github.com/windmissing/play-with-handwritten-digits"
+            "url": "https://github.com/windmissing/DeepLearningPractise"
         },
         "github-buttons": {
-            "repo": "windmissing/play-with-handwritten-digits",
+            "repo": "windmissing/DeepLearningPractise",
             "types": [
                 "star",
                 "watch",
