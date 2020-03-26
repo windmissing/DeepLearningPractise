@@ -13,5 +13,7 @@
     * 7.1 参数范数惩罚
         * [7.1.1 L2参数正则化](Chapter7/7-1-1.md)
         * [7.1.2 L1参数正则化](Chapter7/7-1-2.md)
-
+    * [7.8 提前终止](Chapter7/7-8.md)
+    * [7.11 Bagging 和其他集成方法](Chapter7/7-11.md)
+    * [7.12 Dropout](Chapter7/7-12.md)
     
