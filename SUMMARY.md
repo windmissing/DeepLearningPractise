@@ -16,4 +16,10 @@
     * [7.8 提前终止](Chapter7/7-8.md)
     * [7.11 Bagging 和其他集成方法](Chapter7/7-11.md)
     * [7.12 Dropout](Chapter7/7-12.md)
+* [第8章 深度模型中的优化](Chapter8/0Optimization.md)
+    * 8.3 基本算法
+        * [8.3.2 动量](Chapter8/8-3-2.md)
+    * 8.5 自适应学习率算法
+        * [8.5.1 AdaGrad](Chapter8/8-5-1.md)
+        * [8.5.2 RMSProp](Chapter8/8-5-2.md)
     
