@@ -1,0 +1,1 @@
+<iframe src="https://nbviewer.jupyter.org/github/windmissing/DeepLearningPractise/blob/master/Chapter6/deep-linear-network.ipynb" width="100%" height="1000"></iframe>
