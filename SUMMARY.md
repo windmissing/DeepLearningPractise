@@ -19,6 +19,7 @@
     * [7.12 Dropout](Chapter7/7-12.md)
 * [第8章 深度模型中的优化](Chapter8/0Optimization.md)
     * 8.3 基本算法
+        * [8.3.1 随机梯度下降](Chapter8/8-3-1.md)
         * [8.3.2 动量](Chapter8/8-3-2.md)
     * 8.5 自适应学习率算法
         * [8.5.1 AdaGrad](Chapter8/8-5-1.md)
